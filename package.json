@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@remix-project/remix-tests": "^0.2.26"
+  }
+}
